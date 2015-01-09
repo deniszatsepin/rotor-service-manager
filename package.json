@@ -1,6 +1,6 @@
 {
   "name": "rotor-service-manager",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Service manager for RotorWeb engine.",
   "main": "index.js",
   "scripts": {
